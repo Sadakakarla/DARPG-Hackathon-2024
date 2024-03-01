@@ -47,6 +47,7 @@ A robust knowledge base incorporating different types of data:
 **CPGRAMS Website:** https://pgportal.gov.in
 
 Scraping webpages like the home page, FAQ, About Us, and Contact Us sections of the CPGRAMS portal provides foundational knowledge about the platform, its purpose, and its processes.
+
 Here are the URLs that were passed to the LLM as its context base:
 
 https://www.pgportal.gov.in/,
