@@ -61,10 +61,7 @@ Analyzing past grievances data offers valuable insights into common issues, type
 
 We used Gradio for a Text-based Chat Interface:
 
-Gradio's ChatInterface Component:
-This component allows users to type in their queries as text or record their queries vocally, mimicking a natural dialogue experience.
-
-**Speech Recognition Library:** 
+Gradio's ChatInterface Component allows users to type in their queries as text or record their queries vocally, mimicking a natural dialogue experience.
 
 **Functionality:**
 Using the Gradio library, the interface is created which consists of two interactive tabs: Text and Audio.
