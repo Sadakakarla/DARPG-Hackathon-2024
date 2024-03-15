@@ -86,7 +86,7 @@ Steps involved:
 - Display the LLM's response back to the user on the chat interface.
 
 
-Note: 
+**Note: **
 The Google Colab file is attached here on GitHub.
 On YouTube, you can find our Project Demo/User Interface Video as to how to interact with our Multilingual Chat Assistant.
 
